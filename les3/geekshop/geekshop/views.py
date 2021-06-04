@@ -1,6 +1,7 @@
 from django.shortcuts import render
 
 
+
 def index(request):
     title = 'geekshop'
     list_params = ['a1', 'a2', 'a3']
